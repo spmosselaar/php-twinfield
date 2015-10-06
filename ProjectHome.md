@@ -1,0 +1,1 @@
+This library provides a pure PHP interface for the Twinfield API.
